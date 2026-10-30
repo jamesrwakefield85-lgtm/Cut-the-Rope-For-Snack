@@ -1,0 +1,6 @@
+{
+  "name": "Cut the Rope For Snack",
+  "description": "Feed Om Nom sweet candies by slicing ropes! Collect 3 stars per level, unlock vibrant candy skins, and create custom stages with the built-in level editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

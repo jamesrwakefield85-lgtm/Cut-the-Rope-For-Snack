@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cut the Rope For Snack</string>
+    <string name="level_title">Level %1$d</string>
+    <string name="stars_count">%1$d Stars</string>
+    <string name="play">Play</string>
+    <string name="level_editor">Level Editor</string>
+    <string name="candy_shop">Candy Shop</string>
+    <string name="restart">Restart</string>
+    <string name="next_level">Next Level</string>
+    <string name="menu">Menu</string>
+    <string name="level_complete">Delicious!</string>
+    <string name="level_failed">Oops! Om Nom is hungry</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="locked">Locked (%1$d Stars needed)</string>
+    <string name="save_level">Save Level</string>
+    <string name="test_level">Test Level</string>
+    <string name="clear_editor">Clear</string>
+</resources>
